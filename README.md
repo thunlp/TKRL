@@ -8,7 +8,7 @@ Type-embodied Knowledge Representation Learning (TKRL)
 
 Representation Learning of Knowledge Graphs with Hierarchical Types (IJCAI'16)
 
-Ruobing Xie
+Written by Ruobing Xie
 
 
 # COMPILE
