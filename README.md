@@ -11,7 +11,7 @@ Representation Learning of Knowledge Graphs with Hierarchical Types (IJCAI'16)
 Written by Ruobing Xie
 
 
-# COMPILE
+# COMPILE 
 
 Just type make in the folder ./
 
