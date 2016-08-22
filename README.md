@@ -1,6 +1,6 @@
 # TKRL
 
-New: Add codes and datasets
+New: Add instruction for data preprocessing
 
 # INTRODUCTION
 
