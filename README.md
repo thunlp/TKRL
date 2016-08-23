@@ -26,6 +26,8 @@ Entity types and relation-specific type constraint information for FB15k. <a hre
 
 FB15k+ is a new dataset based on FB15k, including new relations and triples. <a href="http://pan.baidu.com/s/1mitkRRq">[download]</a>
 
+For data preprocessing, please refer to Data_preprocessing_for_TKRL.pdf.
+
 
 # CITE
 
